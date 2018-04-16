@@ -1,11 +1,13 @@
 {
-  "name": "cvss",
+  "name": "@arnoschn/cvss",
   "version": "1.0.2",
-  "description": "A CommonJS library for working with Common Vulnerability Scoring System vectors and scores.",
+  "description":
+    "A CommonJS library for working with Common Vulnerability Scoring System vectors and scores.",
   "main": "index.js",
   "scripts": {
     "test": "lab -v -t 99"
   },
+  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aaronmccall/cvss.git"
